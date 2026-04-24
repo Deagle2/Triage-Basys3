@@ -30,10 +30,4 @@ network was trained on 5,909 real clinical records (augmented to 12,930 with SMO
 
 ---
 
-## Model Parameters
-<img width="1312" height="228" alt="image" src="https://github.com/user-attachments/assets/d6a9fd41-09f8-4e47-af2d-ad2e032daf3b" />
-
-<img width="1153" height="311" alt="image" src="https://github.com/user-attachments/assets/00a77b52-463b-42e5-ad43-b7785ce86c63" />
-
-<img width="1150" height="293" alt="image" src="https://github.com/user-attachments/assets/c134875c-8239-4427-b7a8-e61d8ad45e1a" />
 
