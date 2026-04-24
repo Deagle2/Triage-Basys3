@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Triage-Basys3
-=======
 # Basys3-Triage - [ReadME WIP]
 
 ## Abstract
@@ -40,4 +37,3 @@ network was trained on 5,909 real clinical records (augmented to 12,930 with SMO
 
 <img width="1150" height="293" alt="image" src="https://github.com/user-attachments/assets/c134875c-8239-4427-b7a8-e61d8ad45e1a" />
 
->>>>>>> 40e9f72 (Initial commit)
